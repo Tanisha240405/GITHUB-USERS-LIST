@@ -19,8 +19,9 @@ This is a simple web application that fetches and displays GitHub user profiles 
 
 ## 📸 Preview
 
-![Preview](![image](https://github.com/user-attachments/assets/34a90a92-943c-4ebd-b1f1-d857cac721d0)
-) 
+![Preview](![image](![Screenshot 2025-06-05 134517](https://github.com/user-attachments/assets/6db3d3b4-72be-4a6e-8383-096ced290c29]
+)
+
 ## View Site at:
 https://tanisha240405.github.io/GITHUB-USERS-LIST/
 
